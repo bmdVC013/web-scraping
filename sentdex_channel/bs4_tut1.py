@@ -1,4 +1,6 @@
 #! python3
+# bs4_tut1.py - Introduction.
+
 import bs4 as bs 
 import urllib.request
 
